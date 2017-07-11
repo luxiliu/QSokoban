@@ -5,6 +5,8 @@ Thanks for all your support!
 
 QSokoban
 =
+![screenshot](https://user-images.githubusercontent.com/22950288/28069020-3e793d08-668b-11e7-991c-91655b5fb308.jpg)
+
 Sokoban is a traditional japanese warehouse keeper game. You can find this game in KDE, which is with the name KSokoban. And there is also an edition to run Zaurus. You can find it in http://www.linux-solutions.at/projects/zaurus/games-Sokoban.html.
 
 I referred these two editions' source, re-developed and simplified for Qtopia Opensource 4.3.1.
