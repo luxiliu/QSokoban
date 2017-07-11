@@ -20,4 +20,4 @@ Install
 
 Developed By
 =
-* Luxi Liu - <luxi.liu@gmail.com>
+Luxi Liu - <luxi.liu@gmail.com>
