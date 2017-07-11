@@ -1,0 +1,10 @@
+[Translation]
+File=sokoban-nct
+Context=sokoban
+
+[Desktop Entry]
+Comment[]=Another Sokoban Game
+Exec=sokoban
+Icon=sokoban/Sokoban
+Type=Application
+Name[]=Sokoban
